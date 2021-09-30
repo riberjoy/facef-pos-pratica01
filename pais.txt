@@ -1,5 +1,7 @@
-alterado-Brasil
-alterado-Paraguai
-alterado-Uruguai
-alterado-Italia
-alterado-Venezuela
+Brasil
+Paraguai
+Uruguai
+Italia
+Venezuela
+Chile
+Equador

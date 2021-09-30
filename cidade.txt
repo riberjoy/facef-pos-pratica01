@@ -1,5 +1,7 @@
-alterado-Passos
-alterado-Franca
-alterado-Belo Horizonte
-alterado-Araraquara
-alterado-Ribeirão Preto
+Passos
+Franca
+Belo Horizonte
+Araraquara
+Ribeirão Preto
+Amparo
+Serra Negra

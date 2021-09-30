@@ -1,5 +1,7 @@
-alterado-Nova California
-alterado-Nossa Senhora das Graças 
-alterado-Centro
-alterado-Jardim Consolação
-alterado-Vila Santa Cruz
+Nova California
+Nossa Senhora das Graças 
+Centro
+Jardim Consolação
+Vila Santa Cruz
+Santa Efigenia I
+Santa Efigenia II
